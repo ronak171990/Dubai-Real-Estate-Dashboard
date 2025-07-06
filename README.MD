@@ -6,7 +6,7 @@ An interactive and professional **Power BI dashboard** analyzing the Dubai housi
 
 ## 📊 Dashboard Preview
 
-![Dubai Real Estate Dashboard](./screenshot.png) <!-- Replace with actual image path -->
+![Dashboard Preview](./dashboard-preview.png)
 
 ---
 
